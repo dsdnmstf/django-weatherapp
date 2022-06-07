@@ -83,7 +83,6 @@ index.html
 ```
 
 go to weatherapp/views.py
-
 ```python
 from django.shortcuts import render
 
